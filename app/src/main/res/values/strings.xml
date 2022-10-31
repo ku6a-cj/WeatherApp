@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="show_weather">Show Weather</string>
+    <string name="city">City:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="description">Description</string>
+    <string name="todo">TODO</string>
+    <string name="show_city_coordinates">Show City/ Coordinates</string>
+    <string name="k_c">K/C</string>
+</resources>
