@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         val city = "Warsaw"
         var tempC= "23"
         var tempK= "296"
-        var desc= "cloudy"
+        var desc= "clouds"
         var coordinates= "21.00 E 52.15 N"
 
         imageButton.setOnClickListener{
